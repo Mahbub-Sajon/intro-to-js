@@ -1,0 +1,1 @@
+var nayok_name= "something is"
